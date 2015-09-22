@@ -1,0 +1,4 @@
+VennGen-3
+(A) red
+(B) blue
+((A) INTERSECT (B)) purple
